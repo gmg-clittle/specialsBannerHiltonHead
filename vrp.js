@@ -87,6 +87,11 @@ var banners = {
         mobile: 'https://assets.garberauto.com/specials/hilton-head-buick-gmc-bluffton-sc/model-overview/mobile/new-gmc-sierra-2500-hd-hilton-head-buick-gmc.png',
         backgroundImage: 'https://assets.garberauto.com/specials/hilton-head-buick-gmc-bluffton-sc/background/new-gmc-sierra-2500-hd-hilton-head-buick-gmc.jpg'
     },
+    'Envista': {
+        desktop: 'https://assets.garberauto.com/specials/hilton-head-buick-gmc-bluffton-sc/model-overview/desktop/new-buick-envista-hilton-head-buick-gmc.png',
+        mobile: 'https://assets.garberauto.com/specials/hilton-head-buick-gmc-bluffton-sc/model-overview/mobile/new-buick-envista-hilton-head-buick-gmc.png',
+        backgroundImage: 'https://assets.garberauto.com/specials/hilton-head-buick-gmc-bluffton-sc/background/new-buick-envista-hilton-head-buick-gmc.jpg'
+    },
     'Canyon': {
         desktop: 'https://assets.garberauto.com/specials/hilton-head-buick-gmc-bluffton-sc/model-overview/desktop/new-gmc-canyon-hilton-head-buick-gmc.png',
         mobile: 'https://assets.garberauto.com/specials/hilton-head-buick-gmc-bluffton-sc/model-overview/mobile/new-gmc-canyon-hilton-head-buick-gmc.png',
